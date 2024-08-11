@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **[Muhammad Waqar](https://www.linkedin.com/in/muhammad-waqar-dev/)**
 
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1QSljJydxMsRdLnl0nNc0SY-euTzDcbUJ/view?usp=sharing)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1P1oiTZJQBCeD6vAJeUaVT2Vy9Q2jf8Fw/view?usp=sharing)
 
 - ⚡ Fun fact **I enjoy Music, books & Coffee!**
 
