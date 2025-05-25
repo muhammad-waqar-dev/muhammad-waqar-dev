@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Waqar</h1>
-<h3 align="center">A passionate Software developer from Pakistan :pakistan: </h3>
+<h3 align="center">A passionate Software Developer</h3>
 <h5 align="center">An evermore dedicated learner, an aspiring software engineer. I love all things programming and problem-solving.</h5>
 
 <p align="center"><img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/></p>
