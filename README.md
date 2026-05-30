@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **open-source projects**
 
-- 👨‍💻 All of my projects are available at **[portfolio](https://muhammad-waqar-portfolio.netlify.app/)**
+- 👨‍💻 All of my projects are available at **[portfolio](https://muhammad-waqar-dev-portfolio.netlify.app/)**
 
 - 💬 Ask me about **Problem-solving, Programming, tech**
 
